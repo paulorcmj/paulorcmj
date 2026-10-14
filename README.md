@@ -27,7 +27,7 @@ Estagiário de Tecnologia da Informação na ACC Tech (setembro de 2024 a junho 
 - **Análise de dados:** Power BI (Power Query e DAX) e Jupyter Notebook
 - **Outras:** Git, GitHub e Pacote Office
 
-## Formação e cursos
+## Formação, cursos e certificações
 
 - Bacharelado em Ciência da Computação, UNIJORGE (2021 a 2025)
 - Análise de Dados no Power BI, Fundação Bradesco (2026)
@@ -41,4 +41,4 @@ Idiomas: português nativo e inglês fluente.
 ## Contato
 
 - paulorcmachadojr@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/paulo-roberto-machado-666a64251/)
+- [LinkedIn](https://www.linkedin.com/in/paulorcmachadojr/)
